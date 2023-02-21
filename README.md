@@ -5,5 +5,6 @@ An object-oriented boarding simulation from scratch using Python and Pygame to o
 # How to Run
 1. Download the "Optiboard.py"
 2. You can adjust the parameters
-  - speed_multiplier = "Indicates the speed of the simulation, 1 being the real life speed, while default 10 being simulation running in 10x the original speed of the real world boarding.
+   - `speed_multiplier`: Indicates the speed of the simulation, 1 being the real life speed, while default 10 being simulation running in 10x the original speed of the real world boarding.
+
  
